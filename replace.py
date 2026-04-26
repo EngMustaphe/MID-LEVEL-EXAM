@@ -1,0 +1,1 @@
+print("this is a bad day".replace("bad","good"))
